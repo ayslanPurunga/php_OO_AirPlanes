@@ -1,0 +1,17 @@
+{
+    "name": "ayslan/avaliacao_macoto",
+    "description": "avaliacao",
+    "authors": [
+        {
+            "name": "Ayslan",
+            "email": "lukskill@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alfa\\":"src/"
+        }
+    }
+
+}
